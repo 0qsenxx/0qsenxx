@@ -21,4 +21,4 @@
 </div>
 
 <img heigth="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=0qsenxx&show_icons=true&theme=tokyonight&border_radius=15px"/>
-<img heigth="170em" width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=0qsenxx&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=15px">
+<img heigth="200em" width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=0qsenxx&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=15px">
