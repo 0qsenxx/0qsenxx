@@ -23,4 +23,4 @@
 
 <img heigth="170em" align="center" class="test"
 src="https://github-readme-stats.vercel.app/api?username=0qsenxx&show_icons=true&theme=tokyonight&border_radius=15px"/>
-<img heigth="500em" width="380px" align="center" class="test" src="https://github-readme-stats.vercel.app/api/top-langs?username=0qsenxx&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=15px">
+<img heigth="500em" width="375px" align="center" class="test" src="https://github-readme-stats.vercel.app/api/top-langs?username=0qsenxx&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=15px">
