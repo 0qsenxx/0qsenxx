@@ -1,4 +1,4 @@
-<img src="./assets/header.png">
+<img width="300px" height="150px" align="right" src="./assets/header.png">
 
 ## 🧑🏻‍💻 I'm beginner Frent-End Developer
 
