@@ -15,9 +15,10 @@
  <!-- <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" /> -->
  </div>
  <div>
- <a href="https://www.instagram.com/0qsenxx/">
+ <!-- <a href="https://www.instagram.com/0qsenxx/">
  <img src="https://img.shields.io/badge/-Instagram-fff?style=for-the-badge&logo=instagram&logoColor=B4068E"/>
- </a>
+ </a> -->
 </div>
-<img src="https://github-readme-stats.vercel.app/api?username=0qsenxx&show_icons=true&theme=tokyonight&border_radius=15px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=0qsenxx&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=15px">
+
+<img heigth="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=0qsenxx&show_icons=true&theme=tokyonight&border_radius=15px"/>
+<img heigth="170em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=0qsenxx&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=15px">
