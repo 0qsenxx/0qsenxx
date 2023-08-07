@@ -1,6 +1,7 @@
 <img width="300px" height="150px" align="right" src="./assets/header.png">
 
 ## 🧑🏻‍💻 I'm beginner Frent-End Developer
+## ❄️ Now I'm learning JavaScript
 
 <div>
   <img height="30px" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -20,5 +21,17 @@
  </a> -->
 </div>
 
-<img heigth="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=0qsenxx&show_icons=true&theme=tokyonight&border_radius=15px"/>
-<img heigth="200em" width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=0qsenxx&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=15px">
+<img heigth="170em" align="left" class="test"
+src="https://github-readme-stats.vercel.app/api?username=0qsenxx&show_icons=true&theme=tokyonight&border_radius=15px"/>
+<img heigth="500em" width="400px" align="right" class="test" src="https://github-readme-stats.vercel.app/api/top-langs?username=0qsenxx&show_icons=true&locale=en&layout=compact&theme=tokyonight&border_radius=15px">
+
+
+<style>
+.test {
+    margin-top: 100px;
+}
+
+.test2 {
+    margin-top: 100px
+}
+</style>
