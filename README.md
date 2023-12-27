@@ -1,6 +1,6 @@
 <img width="300px" height="150px" align="right" src="./assets/header.png">
 
-## 🧑🏻‍💻 I'm beginner Frent-End Developer
+## 🧑🏻‍💻 I'm beginner Front-End Developer
 
 ## ❄️ Now I'm learning JavaScript
 
